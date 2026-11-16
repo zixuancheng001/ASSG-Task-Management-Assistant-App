@@ -21,13 +21,13 @@ Category CRUD Operations - Developed full create, read, update, and delete funct
 4. Reminder & Notification System - Configurable desktop reminder alerts with custom scheduling and automated surfacing of pending tasks due within 3 days.
 
 ### 1. Task Tracker & Live Statistics Dashboard
-<img width="637" height="477" alt="Task Tracker" src="https://github.com/user-attachments/assets/179c8ce8-f3db-4406-af2e-ecea2f220ff4" />
-
-### 2. Category Management & Filtering
-<img width="783" height="591" alt="Category Management" src="https://github.com/user-attachments/assets/77645336-047b-4648-99dd-9d5737978ad9" />
-
-### 3. Task Creation & Validation Form
 <img width="786" height="587" alt="Task Management" src="https://github.com/user-attachments/assets/637014de-fff7-44a6-b555-c011caba770c" />
 
-### 4. Reminder & Notification Settings
+### 2. Task Creation & Validation Form
+<img width="637" height="477" alt="Task Tracker" src="https://github.com/user-attachments/assets/179c8ce8-f3db-4406-af2e-ecea2f220ff4" />
+
+### 3. Reminder & Notification Settings
 <img width="782" height="588" alt="Reminder System" src="https://github.com/user-attachments/assets/5ae3e590-b745-42e4-b5cb-d6b0648e9e2c" />
+
+### 4. Category Management & Filtering
+<img width="783" height="591" alt="Category Management" src="https://github.com/user-attachments/assets/77645336-047b-4648-99dd-9d5737978ad9" />
