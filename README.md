@@ -3,6 +3,15 @@
 A desktop productivity application built with **Python and Tkinter** designed to help users organize, track, and manage daily tasks efficiently.
 Engineered with a decoupled architecture separating business logic from the GUI for enhanced maintainability and scalability.
 
+## How to Run Locally
+
+1. **Prerequisites**: Install **Python 3.x** (tested on **Python 3.14 64-bit**, which includes IDLE and Tkinter by default).
+2. **Download**: Clone this repository or click **Code** -> **Download ZIP** and extract it to a local folder.
+3. **Launch via IDLE**:
+   - Open **IDLE (Python 3.14 64-bit)** from your Start Menu.
+   - Click **File** -> **Open...** and select the main entry script (e.g., `main.py`).
+   - Press `F5` (or click **Run** -> **Run Module** in the top menu) to launch the application.
+
 ## My Contributions
 
 1. Task Tracker & Real-Time Analytics
