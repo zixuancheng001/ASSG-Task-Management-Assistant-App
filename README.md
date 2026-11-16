@@ -18,6 +18,7 @@ Category CRUD Operations - Developed full create, read, update, and delete funct
 
 Task Management & Validation - Full task CRUD operations (title, description, due date/time, priority, status, category) with automated date and time input validation.
 Reminder & Notification System - Configurable desktop reminder alerts with custom scheduling and automated surfacing of pending tasks due within 3 days.
+
 <img width="637" height="477" alt="image" src="https://github.com/user-attachments/assets/179c8ce8-f3db-4406-af2e-ecea2f220ff4" />
 <img width="783" height="591" alt="image" src="https://github.com/user-attachments/assets/77645336-047b-4648-99dd-9d5737978ad9" />
 <img width="786" height="587" alt="image" src="https://github.com/user-attachments/assets/637014de-fff7-44a6-b555-c011caba770c" />
