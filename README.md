@@ -17,6 +17,7 @@ Category CRUD Operations - Developed full create, read, update, and delete funct
 *As part of a collaborative team effort, the complete application also integrates the following modules developed by my teammates:*
 
 Task Management & Validation - Full task CRUD operations (title, description, due date/time, priority, status, category) with automated date and time input validation.
+
 Reminder & Notification System - Configurable desktop reminder alerts with custom scheduling and automated surfacing of pending tasks due within 3 days.
 
 <img width="637" height="477" alt="image" src="https://github.com/user-attachments/assets/179c8ce8-f3db-4406-af2e-ecea2f220ff4" />
